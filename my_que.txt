@@ -1,0 +1,38 @@
+Q1 write a code snippet that asks the user to enter a string and remove the repeated characters.
+# sample input:
+# "hello"
+# sample output: helo
+
+Q2.write a code snippet that should ask the user to enter a number. Display the table of that Number
+sample input:
+Enter a Number :4
+Sample output:
+    1*4=4
+    2*4=8...till 10*4=40
+
+Q3write a code snippet that should accept the name age and subject from the user and store it in the key value format
+sample input:
+    Enter the name: Rahul
+    Enter the age: 20
+    Enter the subject:python
+    
+    sample output:
+        {
+          "name" :"rahul",
+          "age" : 20,
+          "subject" : python
+            
+        }
+
+Q4write a code snippet that should ask the user to enter the statement "Don't commit the same mistake twice, else life will not give you chance 
+again and again " store it in a file "mymotivation.txt". read this content from the file and display
+it on the console. use try and except statement while solving this problem.
+
+Q5create a class fruit_store which should have the following functions.
+store the list of fruits enter by the user(function_name be store_fruit_list)
+update the fruits in the list of fruits(function_name should be update_fruit_list)
+delete the fruit from the list of fruits(function_name should be delete_fruit_from_fruit_list)
+search the fruit the list_of_fruits(function_name should be find_the_fruit_from_fruit_lit), if fruit exists, display fruit is
+in the list else display fruit doesn't exist in the store.
+create a child class named fruitmanagement which have below function.
+display the existing fruits in the fruit list(function_name):display_fruit_list
